@@ -1,0 +1,40 @@
+.navbar {
+    background-color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.nav-link {
+    color: gray;
+}
+
+.navbar-brand {
+    font-family:"Inria Sans", sans-serif;
+    font-weight: 700;
+    font-size: x-large;
+    color: white;
+}
+
+.carousel-caption {
+    color: black;
+    opacity: 70%;
+    background-color: transparent;
+}
+
+
+#tools {
+    background-color: black;
+}
+
+#tools h3 {
+    color: white;
+}
+
+.header {
+    border: solid 1px gray;
+}
+
+.button {
+    
+}
